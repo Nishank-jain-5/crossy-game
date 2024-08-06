@@ -1,4 +1,4 @@
-#Crossy Game using Turtle Module
+<h1>Crossy Game using Turtle Module</h1>
 
 Welcome to the Crossy Game project! This game is inspired by the popular "Crossy Road" game and is implemented using the Turtle module in Python. The objective of the game is to navigate your character across a series of roads without getting hit by car.
 
